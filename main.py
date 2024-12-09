@@ -1,2 +1,2 @@
-def summa(a, b):
+def calc(a, b):
     print(a+b)
